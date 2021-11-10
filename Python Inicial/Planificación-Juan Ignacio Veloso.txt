@@ -1,0 +1,10 @@
+Trabajo Práctico Python (Diplomatura Python-UTN)
+Alumno: Juan Ignacio Veloso
+Programa: "Corralón"
+Resumen: El programa sirve para realizar las cargas de ventas diarias de 
+	bolsas de Cal, Cemento y Arena. Al finalizar la carga, el programa calcula el subtotal diario
+	y el total de ventas en la semana y se lo muestra al usuario. El programa, al estar conectado con una base de datos,
+	le permite al usuario dar de alta el total de ventas semanalas, borrar registros existentes, modificarlos y consultarlos. Además, 
+	se utilizan regex para que al principio del programa el usuario ingrese una contraseña.
+
+Interfaz gráfica: no hay
